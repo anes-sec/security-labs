@@ -13,5 +13,3 @@
 
 
 ## Screenshots / evidence
-
-
