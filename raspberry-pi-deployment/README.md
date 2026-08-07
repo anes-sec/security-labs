@@ -1,4 +1,4 @@
-# Flipper zero wireless testing
+# Raspberry pi deployment
 
 ## What it is
 
