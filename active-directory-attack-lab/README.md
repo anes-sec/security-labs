@@ -1,4 +1,4 @@
-# active directory attack lab
+# Active directory attack lab
 
 ## What it is
 
